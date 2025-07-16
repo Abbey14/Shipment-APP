@@ -1,0 +1,6 @@
+{
+  "name": "Bill of Entry (BoE) Verification Co-pilot",
+  "description": "An intelligent application to automate the verification of Bill of Entry (BoE) checklists by comparing PDF data against external sources like Zoho Books and related emails.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
